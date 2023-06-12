@@ -1,5 +1,5 @@
 #4)Faça um programa que leia algo pelo teclado e mostre na tela o sseu tipo
-#primitivo e todas as informações possiveis sobre ela.
+# primitivo e todas as informações possiveis sobre ela.
 v1 = input('digite algo: ')
 print('Tipo da classe', type(v1))
 print('É númerico? {}'.format(v1.isnumeric()))
